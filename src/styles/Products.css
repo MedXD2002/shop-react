@@ -1,0 +1,15 @@
+#title{
+    font-size:14px;
+    font-weight:700
+}
+#btn{
+    font-size:14px;
+    font-weight:700 
+}
+#card{
+    border-style: none;
+    transition: transform 0.3s ease;
+}
+#card:hover{
+    transform: scale(1.2);
+}
