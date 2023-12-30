@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shop-react/static/css/main.cf737c57.css",
-    "main.js": "/shop-react/static/js/main.cf014c57.js",
-    "static/js/787.917857b7.chunk.js": "/shop-react/static/js/787.917857b7.chunk.js",
+    "main.css": "/shop-react/static/css/main.cb8d75b8.css",
+    "main.js": "/shop-react/static/js/main.f53a6200.js",
+    "static/js/787.ec704a7a.chunk.js": "/shop-react/static/js/787.ec704a7a.chunk.js",
     "static/media/EX-A320M.png": "/shop-react/static/media/EX-A320M.2df9968047a33e0e2d49.png",
     "static/media/X570-PLUS.png": "/shop-react/static/media/X570-PLUS.b357174a133a831a65a2.png",
     "static/media/banner3.jpg": "/shop-react/static/media/banner3.d4f208cb00730945a33d.jpg",
@@ -43,12 +43,12 @@
     "static/media/gskill-trident-z.jpg": "/shop-react/static/media/gskill-trident-z.69e4ab2beab5ca39306b.jpg",
     "static/media/X670-P.jpg": "/shop-react/static/media/X670-P.93addbdbf236dbd32e1b.jpg",
     "index.html": "/shop-react/index.html",
-    "main.cf737c57.css.map": "/shop-react/static/css/main.cf737c57.css.map",
-    "main.cf014c57.js.map": "/shop-react/static/js/main.cf014c57.js.map",
-    "787.917857b7.chunk.js.map": "/shop-react/static/js/787.917857b7.chunk.js.map"
+    "main.cb8d75b8.css.map": "/shop-react/static/css/main.cb8d75b8.css.map",
+    "main.f53a6200.js.map": "/shop-react/static/js/main.f53a6200.js.map",
+    "787.ec704a7a.chunk.js.map": "/shop-react/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf737c57.css",
-    "static/js/main.cf014c57.js"
+    "static/css/main.cb8d75b8.css",
+    "static/js/main.f53a6200.js"
   ]
 }
