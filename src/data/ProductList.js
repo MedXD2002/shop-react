@@ -8,7 +8,7 @@ export const products = [
       {
         id: 2,
         title: "CPU",
-        thumbnail: "i3-10100F.jpg",
+        thumbnail: "i5-10600K.jpg",
         link:'/CPU'
       },
       {
